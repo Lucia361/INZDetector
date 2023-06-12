@@ -1,5 +1,6 @@
 # INZDetector
-This is a basic detector for the INZ Stealer malware. It checks for the presence of specific strings in the executable's code, strings heap, and US heap.
+This is a basic detector for the INZ Stealer malware (https://github.com/InstinctEx/Snitcher). 
+It checks for the presence of specific strings in the executable's code, strings heap, and US heap.
 
 ## Usage
 
